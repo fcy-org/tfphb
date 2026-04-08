@@ -24,7 +24,7 @@ const HeroSection = () => {
           transition={{ delay: 0.1 }}
           className="mb-10 flex justify-center"
         >
-          <img src="/tf/logo-tf.png" alt="Track & Field" className="h-32 md:h-44 object-contain" />
+          <img src="/logo-tf.png" alt="Track & Field" className="h-32 md:h-44 object-contain" />
         </motion.div>
 
         {/* Badge */}
